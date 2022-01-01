@@ -360,3 +360,4 @@ int Animation::getNextFrameIndex() const {
 
 } // namespace graphics
 } // namespace engine
+
