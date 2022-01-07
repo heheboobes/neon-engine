@@ -21,3 +21,4 @@ if(BUILD_TESTS)
     enable_testing()
     add_subdirectory(tests)
 endif()
+# Phase 1: Core infrastructure
