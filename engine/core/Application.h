@@ -71,3 +71,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_CORE_APPLICATION_H
+// v2: Added window initialization
