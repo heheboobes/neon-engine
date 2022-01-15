@@ -190,3 +190,4 @@ void Application::OnEvent(sf::Event& event)
 
 } // namespace core
 } // namespace engine
+// v2: GameLoop integration
