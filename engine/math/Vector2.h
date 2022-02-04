@@ -82,3 +82,4 @@ using Vector2i = Vector2<int>;
 using Vector2d = Vector2<double>;
 
 }} // namespace engine::math
+// v2: Added rotate and lerp methods
