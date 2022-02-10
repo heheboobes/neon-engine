@@ -85,3 +85,4 @@ T sqr(T value) {
 
 }} // namespace engine::math
 // v2: Added smoothstep and mapRange
+// v3: Added isNearlyEqual
