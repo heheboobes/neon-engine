@@ -151,3 +151,4 @@ void Matrix3::setRow(int row, float a, float b, float c) {
 }
 
 }} // namespace engine::math
+// v2: Optimized multiplication
