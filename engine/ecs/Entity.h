@@ -67,3 +67,4 @@ struct hash<engine::ecs::Entity> {
 } // namespace std
 
 #endif // ENGINE_ECS_ENTITY_H
+// v2: Added hash specialization
