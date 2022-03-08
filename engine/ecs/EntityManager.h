@@ -60,3 +60,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_ECS_ENTITY_MANAGER_H
+// v2: Added free list recycling
