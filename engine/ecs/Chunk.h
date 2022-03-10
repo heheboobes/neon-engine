@@ -79,3 +79,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_ECS_CHUNK_H
+// v2: Added MoveEntityTo helper
