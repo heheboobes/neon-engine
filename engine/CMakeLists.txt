@@ -161,3 +161,4 @@ target_include_directories(neon-engine PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 target_link_libraries(neon-engine PUBLIC sfml-system sfml-window sfml-graphics sfml-audio)
 
 target_compile_features(neon-engine PUBLIC cxx_std_20)
+# ECS module sources
