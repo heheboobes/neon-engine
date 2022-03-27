@@ -210,3 +210,4 @@ std::vector<ComponentTypeID> Chunk::GetComponentTypes() const
 
 } // namespace ecs
 } // namespace engine
+// v2: Fixed memory alignment
