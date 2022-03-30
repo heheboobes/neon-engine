@@ -202,3 +202,4 @@ void World::Clear()
 
 } // namespace ecs
 } // namespace engine
+// v2: Added clear and reset
