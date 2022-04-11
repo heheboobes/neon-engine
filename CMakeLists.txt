@@ -32,3 +32,4 @@ endif()
 # ECS: Entity, Component, Mask
 # ECS: World orchestrator
 # COMPONENTS: Transform
+# COMPONENTS: Audio, Particles
