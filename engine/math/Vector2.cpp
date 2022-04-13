@@ -10,3 +10,4 @@ template Vector2<double> operator*(double, const Vector2<double>&);
 
 }} // namespace engine::math
 // v2: Fixed normalization edge case
+
