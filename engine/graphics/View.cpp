@@ -285,3 +285,4 @@ void View::updateSFML() const {
 
 } // namespace graphics
 } // namespace engine
+
