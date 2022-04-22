@@ -33,3 +33,4 @@ endif()
 # ECS: World orchestrator
 # COMPONENTS: Transform
 # COMPONENTS: Audio, Particles
+# COMPONENTS: Camera, Light
