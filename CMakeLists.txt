@@ -34,3 +34,4 @@ endif()
 # COMPONENTS: Transform
 # COMPONENTS: Audio, Particles
 # COMPONENTS: Camera, Light
+# COMPONENTS: RigidBody, Pathfinding
