@@ -115,3 +115,4 @@ void Archetype::Clear()
 } // namespace engine
 // v2: Optimized component lookup
 // v3: Fixed migration data corruption
+
