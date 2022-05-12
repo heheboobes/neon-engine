@@ -150,3 +150,4 @@ void RenderSystem::SubmitDrawCalls(sf::RenderTarget& target)
 
 } // namespace systems
 } // namespace engine
+// v2: Added layer mask filtering
