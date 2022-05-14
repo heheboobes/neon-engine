@@ -63,3 +63,4 @@ std::vector<ComponentTypeID> ComponentRegistry::GetAllRegisteredTypes() const
 
 } // namespace ecs
 } // namespace engine
+
