@@ -37,3 +37,4 @@ endif()
 # COMPONENTS: RigidBody, Pathfinding
 # SYSTEMS: Render
 # SYSTEMS: Audio, Particles
+# SYSTEMS: Camera, UI, Input
