@@ -116,3 +116,4 @@ void Archetype::Clear()
 // v2: Optimized component lookup
 // v3: Fixed migration data corruption
 
+
