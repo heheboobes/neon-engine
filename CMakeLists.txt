@@ -39,3 +39,4 @@ endif()
 # SYSTEMS: Audio, Particles
 # SYSTEMS: Camera, UI, Input
 # GRAPHICS: Renderer
+# GRAPHICS: Camera, View
