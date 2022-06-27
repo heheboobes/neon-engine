@@ -100,3 +100,4 @@ private:
 
 } // namespace graphics
 } // namespace engine
+// v2: Added memory tracking
