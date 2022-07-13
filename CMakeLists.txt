@@ -41,3 +41,4 @@ endif()
 # GRAPHICS: Renderer
 # GRAPHICS: Camera, View
 # AUDIO: Engine, SoundManager
+# INPUT: Manager, Actions
