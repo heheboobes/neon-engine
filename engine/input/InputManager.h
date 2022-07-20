@@ -105,3 +105,4 @@ private:
 };
 
 } // namespace engine::input
+// v2: Added mouse delta tracking
