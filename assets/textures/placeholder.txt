@@ -1,0 +1,2 @@
+Place texture assets (PNG, JPG) in this directory.
+The engine loads textures via TextureManager from this path at runtime.
