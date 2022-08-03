@@ -7,3 +7,4 @@ template class Rect<int>;
 template class Rect<double>;
 
 }} // namespace engine::math
+
