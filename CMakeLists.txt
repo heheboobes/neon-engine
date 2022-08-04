@@ -42,3 +42,4 @@ endif()
 # GRAPHICS: Camera, View
 # AUDIO: Engine, SoundManager
 # INPUT: Manager, Actions
+# PHYSICS: Collision detection
