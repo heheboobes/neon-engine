@@ -147,3 +147,4 @@ sf::IntRect AnimationComponent::GetCurrentTextureRect() const
 
 } // namespace components
 } // namespace engine
+
