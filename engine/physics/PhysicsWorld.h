@@ -72,3 +72,4 @@ private:
 };
 
 }} // namespace engine::physics
+// v2: Added contact pair caching
