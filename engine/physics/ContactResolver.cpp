@@ -82,3 +82,4 @@ float ContactResolver::computeFriction(const RigidBody& a, const RigidBody& b) c
 }
 
 }} // namespace engine::physics
+// v2: Stabilized impulse resolution
