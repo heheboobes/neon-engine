@@ -45,3 +45,4 @@ endif()
 # PHYSICS: Collision detection
 # PARTICLES: System
 # TILEMAP: Multi-layer
+# SCENE: Management
