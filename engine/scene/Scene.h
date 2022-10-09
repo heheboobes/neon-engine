@@ -74,3 +74,4 @@ private:
 };
 
 } // namespace engine::scene
+// v2: Added lifecycle callbacks
