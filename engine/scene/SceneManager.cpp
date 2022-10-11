@@ -165,3 +165,4 @@ void SceneManager::executeSwitch(std::unique_ptr<Scene> scene)
 }
 
 } // namespace engine::scene
+// v2: Fixed transition memory
