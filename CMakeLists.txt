@@ -46,3 +46,4 @@ endif()
 # PARTICLES: System
 # TILEMAP: Multi-layer
 # SCENE: Management
+# SERIALIZATION: JSON
