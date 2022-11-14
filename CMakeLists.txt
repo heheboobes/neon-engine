@@ -47,3 +47,4 @@ endif()
 # TILEMAP: Multi-layer
 # SCENE: Management
 # SERIALIZATION: JSON
+# SERIALIZATION: Tests
