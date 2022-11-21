@@ -48,3 +48,4 @@ endif()
 # SCENE: Management
 # SERIALIZATION: JSON
 # SERIALIZATION: Tests
+# UTILS: File, String
