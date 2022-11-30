@@ -163,3 +163,4 @@ target_link_libraries(neon-engine PUBLIC sfml-system sfml-window sfml-graphics s
 target_compile_features(neon-engine PUBLIC cxx_std_20)
 # ECS module sources
 # Audio + Input module sources
+# Utils module sources
