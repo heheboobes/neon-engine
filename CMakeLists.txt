@@ -50,3 +50,4 @@ endif()
 # SERIALIZATION: Tests
 # UTILS: File, String
 # DEBUG: Profiler, Logger
+# DEBUG: Stats, AssetInspector
