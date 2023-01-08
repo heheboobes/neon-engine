@@ -51,3 +51,4 @@ endif()
 # UTILS: File, String
 # DEBUG: Profiler, Logger
 # DEBUG: Stats, AssetInspector
+# UI: Widget, Canvas
