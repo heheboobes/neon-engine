@@ -194,3 +194,4 @@ void Application::OnEvent(sf::Event& event)
 // v3: Added profiling scope markers
 // v4: Fixed shutdown cleanup
 // v5: Final API review
+
