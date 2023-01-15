@@ -52,3 +52,4 @@ endif()
 # DEBUG: Profiler, Logger
 # DEBUG: Stats, AssetInspector
 # UI: Widget, Canvas
+# UI: Panel, TextBox
