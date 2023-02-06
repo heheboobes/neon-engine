@@ -54,3 +54,4 @@ endif()
 # UI: Widget, Canvas
 # UI: Panel, TextBox
 # UI: Style theming
+# EXAMPLES: Platformer
