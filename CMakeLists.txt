@@ -55,3 +55,4 @@ endif()
 # UI: Panel, TextBox
 # UI: Style theming
 # EXAMPLES: Platformer
+# EXAMPLES: RPG
