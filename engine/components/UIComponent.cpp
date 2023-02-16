@@ -161,3 +161,4 @@ void UIComponent::RecalculateRect(const sf::Vector2f& containerSize)
 
 } // namespace components
 } // namespace engine
+
