@@ -56,3 +56,4 @@ endif()
 # UI: Style theming
 # EXAMPLES: Platformer
 # EXAMPLES: RPG
+# EXAMPLES: Pong
