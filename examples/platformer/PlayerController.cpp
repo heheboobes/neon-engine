@@ -93,3 +93,4 @@ void PlayerController::applyJump(engine::ecs::Entity& entity, float dt)
 }
 
 }
+// v2: Fixed jump edge case
