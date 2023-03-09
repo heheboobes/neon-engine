@@ -112,3 +112,4 @@ TEST(Matrix, TransformPoint)
 }
 
 }
+// v2: Added inverse tests
