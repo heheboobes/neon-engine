@@ -73,3 +73,4 @@ private:
 #endif // ENGINE_CORE_APPLICATION_H
 // v2: Added window initialization
 // v3: Layer and state integration
+// v4: Refactored game loop into GameLoop class
