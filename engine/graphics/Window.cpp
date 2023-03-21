@@ -336,3 +336,4 @@ void Window::handleEvents() {
 
 } // namespace graphics
 } // namespace engine
+// v2: Improved focus handling
