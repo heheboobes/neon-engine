@@ -9,3 +9,4 @@ template Vector3<float> operator*(float, const Vector3<float>&);
 template Vector3<double> operator*(double, const Vector3<double>&);
 
 }} // namespace engine::math
+
