@@ -192,3 +192,4 @@ void Application::OnEvent(sf::Event& event)
 } // namespace engine
 // v2: GameLoop integration
 // v3: Added profiling scope markers
+// v4: Fixed shutdown cleanup
