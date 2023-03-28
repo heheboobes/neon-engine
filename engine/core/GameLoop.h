@@ -63,3 +63,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_CORE_GAME_LOOP_H
+// v2: Improved interpolation alpha
