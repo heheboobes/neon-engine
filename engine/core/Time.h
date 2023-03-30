@@ -57,3 +57,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_CORE_TIME_H
+// v2: Added frame time history
