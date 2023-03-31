@@ -88,3 +88,4 @@ void LayerStack::OnEvent(void* event)
 } // namespace core
 } // namespace engine
 // v2: Event dispatch optimization
+// v3: Reverse iteration optimization
