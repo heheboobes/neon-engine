@@ -65,3 +65,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_ECS_ARCHETYPE_H
+// v2: Optimized matching algorithm
