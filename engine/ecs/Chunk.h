@@ -80,3 +80,4 @@ private:
 
 #endif // ENGINE_ECS_CHUNK_H
 // v2: Added MoveEntityTo helper
+// v3: Improved memory layout
