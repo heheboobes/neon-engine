@@ -61,3 +61,4 @@ private:
 
 #endif // ENGINE_ECS_ENTITY_MANAGER_H
 // v2: Added free list recycling
+// v3: Added entity pooling
