@@ -164,3 +164,4 @@ target_compile_features(neon-engine PUBLIC cxx_std_20)
 # ECS module sources
 # Audio + Input module sources
 # Utils module sources
+# Added parallel system support
