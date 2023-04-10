@@ -340,3 +340,4 @@ void SpriteBatch::buildIndexBuffer(std::size_t spriteCount) {
 } // namespace graphics
 } // namespace engine
 // v2: Added sort by texture
+// v3: Batch optimization
