@@ -323,3 +323,4 @@ void CollisionSystem::DebugDrawPair(const CollisionPair& pair)
 
 } // namespace systems
 } // namespace engine
+// v2: Spatial query optimization
