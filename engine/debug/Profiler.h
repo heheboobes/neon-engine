@@ -88,3 +88,4 @@ public:
 #define PROFILE_SCOPE(name) engine::debug::ScopedProfile CONCAT_VAR(prof_, __LINE__)(name)
 
 } // namespace engine::debug
+// v2: Frame budget warnings
