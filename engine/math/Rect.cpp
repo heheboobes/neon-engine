@@ -8,3 +8,4 @@ template class Rect<double>;
 
 }} // namespace engine::math
 
+
