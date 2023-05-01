@@ -145,3 +145,4 @@ std::vector<Entity> EntityManager::GetActiveEntities() const
 } // namespace ecs
 } // namespace engine
 // v2: Added debug logging
+// v3: Fixed version overflow
