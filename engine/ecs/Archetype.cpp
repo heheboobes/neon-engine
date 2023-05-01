@@ -114,3 +114,4 @@ void Archetype::Clear()
 } // namespace ecs
 } // namespace engine
 // v2: Optimized component lookup
+// v3: Fixed migration data corruption
