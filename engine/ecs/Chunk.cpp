@@ -211,3 +211,4 @@ std::vector<ComponentTypeID> Chunk::GetComponentTypes() const
 } // namespace ecs
 } // namespace engine
 // v2: Fixed memory alignment
+// v3: Fixed removal ordering
