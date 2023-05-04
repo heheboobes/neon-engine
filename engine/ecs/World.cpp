@@ -203,3 +203,4 @@ void World::Clear()
 } // namespace ecs
 } // namespace engine
 // v2: Added clear and reset
+// v3: Fixed system sort stability
