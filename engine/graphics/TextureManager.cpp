@@ -286,3 +286,4 @@ sf::Texture TextureManager::createFallbackTexture(const sf::Color& color) const 
 
 } // namespace graphics
 } // namespace engine
+// v2: Thread safety fix
