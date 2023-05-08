@@ -291,3 +291,4 @@ void ShaderManager::applyCurrentUniforms() {
 
 } // namespace graphics
 } // namespace engine
+// v2: Uniform caching bug
