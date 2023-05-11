@@ -138,3 +138,4 @@ void ParticleSystem::draw(sf::RenderTarget& target, sf::RenderStates states) con
 
 } // namespace engine::particles
 // v2: SIMD optimization hints
+// v3: Memory leak fix
