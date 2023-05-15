@@ -221,3 +221,4 @@ void MusicPlayer::applyVolume() {
 }
 
 } // namespace engine::audio
+// v2: Crossfade timing fix
