@@ -455,3 +455,4 @@ void PathfindingSystem::UpdateMovement(ecs::World* world, ecs::Entity entity,
 } // namespace systems
 } // namespace engine
 // v2: Added path smoothing
+// v3: Path recalculation fix
