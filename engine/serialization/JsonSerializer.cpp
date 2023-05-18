@@ -190,3 +190,4 @@ std::string JsonSerializer::finalizeString() {
 }
 
 } // namespace engine::serialization
+// v2: NaN handling
