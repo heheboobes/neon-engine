@@ -189,3 +189,4 @@ std::vector<uint8_t> BinarySerializer::finalize() {
 }
 
 } // namespace engine::serialization
+// v2: Endianness fix
