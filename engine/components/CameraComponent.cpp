@@ -182,3 +182,4 @@ sf::Vector2f CameraComponent::WorldToScreen(const sf::Vector2f& worldPos) const
 
 } // namespace components
 } // namespace engine
+
