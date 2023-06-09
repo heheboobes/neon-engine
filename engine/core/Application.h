@@ -74,3 +74,4 @@ private:
 // v2: Added window initialization
 // v3: Layer and state integration
 // v4: Refactored game loop into GameLoop class
+// DOCS: Added inline documentation
