@@ -61,3 +61,4 @@ private:
 };
 
 } // namespace engine::debug
+// DOCS: Debug tools docs
