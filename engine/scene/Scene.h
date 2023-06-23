@@ -75,3 +75,4 @@ private:
 
 } // namespace engine::scene
 // v2: Added lifecycle callbacks
+// DOCS: Scene management docs
