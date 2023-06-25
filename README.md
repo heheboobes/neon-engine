@@ -125,3 +125,5 @@ Contributions are welcome. Please read our contributing guidelines and code of c
 - **0.3.0** (2022-05-01) — Application framework, game loop
 - **0.2.0** (2022-03-01) — Project structure, build system
 - **0.1.0** (2022-01-15) — Initial project setup
+
+## Version History
