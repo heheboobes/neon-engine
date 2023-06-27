@@ -127,3 +127,5 @@ Contributions are welcome. Please read our contributing guidelines and code of c
 - **0.1.0** (2022-01-15) — Initial project setup
 
 ## Version History
+
+### 0.9.0 - UI Framework and Debug Tools
