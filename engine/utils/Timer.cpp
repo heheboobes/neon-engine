@@ -105,3 +105,4 @@ double Timer::getProgress() const
 }
 
 } // namespace engine::utils
+
