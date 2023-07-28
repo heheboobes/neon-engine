@@ -75,3 +75,4 @@ private:
 // v3: Layer and state integration
 // v4: Refactored game loop into GameLoop class
 // DOCS: Added inline documentation
+// v5: Removed deprecated methods
