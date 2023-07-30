@@ -53,3 +53,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_ECS_SYSTEM_H
+// v2: Added nodiscard
