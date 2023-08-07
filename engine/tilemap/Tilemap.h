@@ -71,3 +71,4 @@ private:
 };
 
 } // namespace engine::tilemap
+// v2: Collision auto-detection
