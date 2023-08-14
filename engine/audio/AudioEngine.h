@@ -70,3 +70,4 @@ private:
 
 } // namespace engine::audio
 // DOCS: Audio API docs
+// v2: Spatial attenuation curves
