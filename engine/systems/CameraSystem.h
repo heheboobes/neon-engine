@@ -60,3 +60,4 @@ private:
 
 } // namespace systems
 } // namespace engine
+// v2: Fade-to-black effect
