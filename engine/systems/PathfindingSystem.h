@@ -98,3 +98,4 @@ private:
 
 } // namespace systems
 } // namespace engine
+// v2: Path smoothing
