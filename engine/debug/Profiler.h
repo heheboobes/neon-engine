@@ -89,3 +89,4 @@ public:
 
 } // namespace engine::debug
 // v2: Frame budget warnings
+// v3: Timeline visualization
