@@ -82,3 +82,4 @@ private:
 };
 
 } // namespace engine::debug
+// v2: Auto-complete support
