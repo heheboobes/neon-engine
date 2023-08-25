@@ -152,3 +152,4 @@ const T* PoolAllocator<T, Alignment>::operator[](size_t index) const
 }
 
 } // namespace engine::utils
+// v2: Alignment guarantee
