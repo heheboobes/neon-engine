@@ -62,3 +62,4 @@ private:
 
 } // namespace engine::debug
 // DOCS: Debug tools docs
+// v2: Scene graph visualization
