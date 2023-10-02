@@ -57,3 +57,4 @@ endif()
 # EXAMPLES: Platformer
 # EXAMPLES: RPG
 # EXAMPLES: Pong
+# Version 0.9.0
