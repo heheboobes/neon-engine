@@ -59,3 +59,4 @@ endif()
 # EXAMPLES: Pong
 # Version 0.9.0
 # MSVC 2022 warnings fixed
+# GCC 13 warnings fixed
