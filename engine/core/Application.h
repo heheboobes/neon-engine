@@ -76,3 +76,4 @@ private:
 // v4: Refactored game loop into GameLoop class
 // DOCS: Added inline documentation
 // v5: Removed deprecated methods
+// v6: C++20 compatibility
