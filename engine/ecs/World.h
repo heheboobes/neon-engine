@@ -162,3 +162,4 @@ private:
 #endif // ENGINE_ECS_WORLD_H
 // v2: Added system sorting by priority
 // DOCS: API documentation
+// v3: API stability annotations
