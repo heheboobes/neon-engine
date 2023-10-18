@@ -46,3 +46,4 @@ public:
 } // namespace engine
 // v2: Added world matrix cache
 // DOCS: Component docs
+// v3: Deprecated old API
