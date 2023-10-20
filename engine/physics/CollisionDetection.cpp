@@ -104,3 +104,4 @@ engine::math::Vector2f CollisionDetection::closestPointOnAABB(const engine::math
 }
 
 }} // namespace engine::physics
+
