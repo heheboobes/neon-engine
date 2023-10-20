@@ -61,3 +61,4 @@ endif()
 # MSVC 2022 warnings fixed
 # GCC 13 warnings fixed
 # Clang 16 warnings fixed
+# Version 1.0.0-rc1
