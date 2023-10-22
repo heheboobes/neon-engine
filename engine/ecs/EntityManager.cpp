@@ -146,3 +146,4 @@ std::vector<Entity> EntityManager::GetActiveEntities() const
 } // namespace engine
 // v2: Added debug logging
 // v3: Fixed version overflow
+// v4: Debug iterator validation
