@@ -84,3 +84,4 @@ using Vector2d = Vector2<double>;
 }} // namespace engine::math
 // v2: Added rotate and lerp methods
 // DOCS: Math library docs
+// v2: GCC Wconversion fixes
