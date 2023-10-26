@@ -36,3 +36,4 @@ public:
 };
 
 }} // namespace engine::math
+// v2: Clang Wconversion fixes
