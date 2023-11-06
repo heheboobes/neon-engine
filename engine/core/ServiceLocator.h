@@ -70,3 +70,4 @@ private:
 } // namespace engine
 
 #endif // ENGINE_CORE_SERVICE_LOCATOR_H
+// v2: Finalize API
