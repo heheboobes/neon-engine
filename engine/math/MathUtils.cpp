@@ -31,3 +31,4 @@ template bool isNearlyEqual<float>(float, float, float);
 template bool isNearlyEqual<double>(double, double, double);
 
 }} // namespace engine::math
+
