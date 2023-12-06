@@ -63,3 +63,4 @@ endif()
 # Clang 16 warnings fixed
 # Version 1.0.0-rc1
 # Version 1.0.0
+# Release candidate 2
